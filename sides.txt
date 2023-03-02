@@ -1,0 +1,5 @@
+head
+tail
+head
+head
+& C:/python37/python.exe "c:/Users/Acer/Desktop/my python/50_days_code_python/day9.py"
